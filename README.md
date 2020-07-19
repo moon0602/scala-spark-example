@@ -122,9 +122,6 @@ http://www.jetbrains.com/idea/download/index.html
 
 1. メニューの「File」 -> 「Settings」を選択
 2. 「SBT」 -> 「SBT Launcher JAR file」でインストール済みの sbt-launch.jar を指定
-
-  * brew で sbt をインストールした場合 ``/usr/local/Cellar/sbt/0.11.2/libexec/sbt-launch.jar`` にインストールされる
-
 3. 「OK」を押下
 
 
